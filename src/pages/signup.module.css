@@ -1,0 +1,31 @@
+.signup{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+   
+    /* background-color: aqua;  */
+}
+.label{
+    margin: 10px 0;
+}
+.input{
+    height: 30px;
+    padding: 10px;
+}
+.select{
+    height: 40px;
+    
+}
+.button{
+    width: 100px;
+    padding: 10px;
+    margin: 10px auto;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(224, 167, 62);
+}
